@@ -4,6 +4,7 @@ Named Entity Recognition
 ### Description
 **Tags**: LOC(地名), ORG(机构名), PER(人名)   
 **Tag Strategy**：BIO  
+**Split**: '*space*' (北 B-LOC)  
 **Data Size**:  
 Train data set ( [example.train](example.train) ):  
 
