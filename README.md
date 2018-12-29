@@ -4,7 +4,7 @@ Collections of Chinese NLP corpus
 ## Word Segmentation and Part-of-Speech
 
 |Name|Description|Link|
-|---|---|---|
+|:-:|---|:-:|
 |ZhuXian(诛仙)|小说《诛仙》的POS和分词标注数据|[zhuxian](https://github.com/hankcs/OpenCorpus/tree/master/zhuxian)|
 |CNLC|国家语言委员会的数据，train: dev: test=8: 1: 1|[CNLC](https://github.com/hankcs/OpenCorpus/tree/master/cncorpus)|
 
@@ -12,16 +12,17 @@ Collections of Chinese NLP corpus
 ## Named Entity Recognition (NER)
 
 |Name|Description|Link|
-|---|---|---|
+|:-:|:-:|:-:|
 |MSRA|中文NER任务最常用数据之一|[MSRA](NER/MSRA)|
 |People's Daily|中文NER任务最常用数据之二|[People's Daily](NER/People%27s%20Daily)|
+|Weibo Data|中文NER任务最常用数据之三|[Weibo](NER/Weibo)|
 
 ## Text Classification
 
 ## Sentiment Analysis and Rating
 
 |Name|Description|Link|
-|---|---|---|
+|:-:|---|:-:|
 | ChnSentiCorp_htl_all | **7000**多条酒店评论数据，**5000**多条正面评论，**2000**多条负面评论 | [ChnSentiCorp_htl_all](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/ChnSentiCorp_htl_all) |
 | waimai_10k | 某外卖平台收集的用户评价，正面**4000**条，负面约**8000**条 | [waimai_10k](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/waimai_10k) |
 | online_shopping_10_cats | **10**个类别（书籍、平板、手机、水果、洗发水、热水器、蒙牛、衣服、计算机、酒店），共**6万**多条评论数据，正、负面评论各约**3万**条 | [online_shopping_10_cats](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/online_shopping_10_cats) |

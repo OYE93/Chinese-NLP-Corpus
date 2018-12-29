@@ -5,7 +5,7 @@ Named Entity Recognition
 **Tags**: PER(人名), LOC(地点名), GPE(行政区名), ORG(机构名)   
 
 |Label|Tag|Meaning|
-|---|---|---|
+|:-:|:-:|:--|
 |PER|PER.NAM|名字（张三）|
 ||PER.NOM|代称、类别名（穷人）|
 |LOC|LOC.NAM|特指名称（紫玉山庄）|
@@ -22,19 +22,19 @@ Named Entity Recognition
 Train data set ( [weiboNER.conll.train](weiboNER.conll.train) ):  
 
 |句数|字符数|PER.NAM数|PER.NOM数|LOC.NAM数|LOC.NOM数|GPE.NAM数|ORG.NAM数|ORG.NOM数|
-|---|---|---|---|---|---|---|---|---|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1350|73778|574|766|56|51|205|183|42|
 
 Dev data set ( [weiboNER.conll.dev](weiboNER.conll.dev) ):  
 
 |句数|字符数|PER.NAM数|PER.NOM数|LOC.NAM数|LOC.NOM数|GPE.NAM数|ORG.NAM数|ORG.NOM数|
-|---|---|---|---|---|---|---|---|---|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |270|14509|90|208|6|6|26|47|5|
 
 Test data set ( [weiboNER.conll.test](weiboNER.conll.test) )
 
 |句数|字符数|PER.NAM数|PER.NOM数|LOC.NAM数|LOC.NOM数|GPE.NAM数|ORG.NAM数|ORG.NOM数|
-|---|---|---|---|---|---|---|---|---|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |270|14842|111|170|19|9|47|39|17|
 
 **Note**:  

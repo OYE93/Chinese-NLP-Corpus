@@ -9,19 +9,19 @@ Named Entity Recognition
 Train data set ( [example.train](example.train) ):  
 
 |句数|字符数|LOC数|ORG数|PER数|
-|---|---|---|---|---|
+|:-:|:-:|:-:|:-:|:-:|
 |20864|979180|16571|9277|8144|
 
 Dev data set ( [example.dev](example.dev) ):  
 
 |句数|字符数|LOC数|ORG数|PER数|
-|---|---|---|---|---|
+|:-:|:-:|:-:|:-:|:-:|
 |2318|109870|1951|984|884|
 
 Test data set ( [example.test](example.test) )
 
 |句数|字符数|LOC数|ORG数|PER数|
-|---|---|---|---|---|
+|:-:|:-:|:-:|:-:|:-:|
 |4636|219197|3658|2185|1864|
 
 **Reference**:   
