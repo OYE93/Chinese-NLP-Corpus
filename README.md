@@ -9,6 +9,11 @@ Corpus for open domain, including: law, social media, comments
 |ZhuXian(诛仙)|小说《诛仙》的POS和分词标注数据|[zhuxian](https://github.com/hankcs/OpenCorpus/tree/master/zhuxian)|
 |CNLC|国家语言委员会的数据，train: dev: test=8: 1: 1|[CNLC](https://github.com/hankcs/OpenCorpus/tree/master/cncorpus)|
 
+\* the url in the table is out-of-date, you can find the data from the following reference.  
+**Reference**:<https://github.com/hankcs/multi-criteria-cws/tree/master/data>  
+the details of the corpus  
+![](https://camo.githubusercontent.com/8dfcf9fb2ea026c1e178ec9f70efea038fa4ca20/687474703a2f2f7778332e73696e61696d672e636e2f6c617267652f303036466d6a6d636c7931666d366a74686133746d6a33313872306c343078392e6a7067)
+
 
 ### Named Entity Recognition (NER)
 |Name|Description|Link|
@@ -35,6 +40,11 @@ Corpus for open domain, including: law, social media, comments
 | yf_amazon | **52万**件商品，**1100**多个类目，**142万**用户，**720万**条评论/评分数据 | [yf_amazon](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/yf_amazon) |
 | ez_douban | **5万**多部电影（**3万**多有电影名称，**2万**多没有电影名称），**2.8万**用户，**280万**条评分数据 | [ez_douban](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/ez_douban) |
 
+### Other Github Repo
+|Description|Link|notes|
+|:-:|:-:|---|
+|Chinese NLP Corpus|<https://github.com/SophonPlus/ChineseNlpCorpus>||
+
 
 ## Medical Domain
 collect corpus for Chinese medical domain, including medical terminology, QA, clinical NER
@@ -48,6 +58,8 @@ collect corpus for Chinese medical domain, including medical terminology, QA, cl
 |Name|Description|Link|notes|
 |:-:|---|:-:|---|
 |CNMER|中文医学实体识别数据集，实体包括身体部位、症状体征、检查、疾病以及治疗。|[CNMER](https://github.com/yhzbit/CNMER/tree/master/data)|应该是CCKS2017的数据。|
+|CNMER|识别疾病和诊断、解剖部位、影像检查、实验室检验、手术和药物6种命名实体|[CCKS2018数据](https://github.com/MenglinLu/Chinese-clinical-NER/tree/master/data)|
+|CNMER|识别中文医学命名实体|[CCKS2019数据](http://openkg.cn/dataset/yiducloud-ccks2019task1)|来自[OpenKG](http://openkg.cn)的分享|
 
 ### Question Answer (QA)
 |Name|Description|Link|notes|
@@ -55,3 +67,7 @@ collect corpus for Chinese medical domain, including medical terminology, QA, cl
 |cMedQA|医学在线论坛的数据，包含**5.4万**个问题，及对应的**约10万**个回答。|[cMedQA](https://github.com/zhangsheng93/cMedQA)|[Chinese Medical Question Answer Matching Using End-to-End Character-Level Multi-Scale CNNs](https://www.mdpi.com/2076-3417/7/8/767)|
 |cMedQA2|cMedQA的扩展版，包含**约10万**个医学相关问题，及对应的**约20万**个回答。|[cMedQA2](https://github.com/zhangsheng93/cMedQA2)|[Multi-Scale Attentive Interaction Networks for Chinese Medical Question Answer Selection](https://ieeexplore.ieee.org/abstract/document/8548603)|
 
+### Others
+|Name|Description|Link|notes|
+|:-:|---|:-:|---|
+|medical-books|Open sourece medical books in LaTeX|<https://github.com/scienceasdf/medical-books>||
