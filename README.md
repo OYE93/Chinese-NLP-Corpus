@@ -66,7 +66,7 @@ collect corpus for Chinese medical domain, including medical terminology, QA, cl
 |:-:|---|:-:|---|
 |cMedQA|医学在线论坛的数据，包含**5.4万**个问题，及对应的**约10万**个回答。|[cMedQA](https://github.com/zhangsheng93/cMedQA)|[Chinese Medical Question Answer Matching Using End-to-End Character-Level Multi-Scale CNNs](https://www.mdpi.com/2076-3417/7/8/767)|
 |cMedQA2|cMedQA的扩展版，包含**约10万**个医学相关问题，及对应的**约20万**个回答。|[cMedQA2](https://github.com/zhangsheng93/cMedQA2)|[Multi-Scale Attentive Interaction Networks for Chinese Medical Question Answer Selection](https://ieeexplore.ieee.org/abstract/document/8548603)|
-|webMedQA|又一个医学在线问答数据集，包含**6万+**的问题和**31万+**的回答，而且包含问题的类别。|[webMedQA](https://github.com/hejunqing/webMedQA)|[Applying deep matching networks to Chinese medical question answering: A study and a dataset](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0761-8)|
+|webMedQA|又一个医学在线问答数据集，包含**6万**个问题和**31万**个回答，而且包含问题的类别。|[webMedQA](https://github.com/hejunqing/webMedQA)|[Applying deep matching networks to Chinese medical question answering: A study and a dataset](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0761-8)|
 
 ### Others
 |Name|Description|Link|notes|
