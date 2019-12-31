@@ -58,14 +58,15 @@ collect corpus for Chinese medical domain, including medical terminology, QA, cl
 |Name|Description|Link|notes|
 |:-:|---|:-:|---|
 |CNMER|中文医学实体识别数据集，实体包括身体部位、症状体征、检查、疾病以及治疗。|[CNMER](https://github.com/yhzbit/CNMER/tree/master/data)|应该是CCKS2017的数据。|
-|CNMER|识别疾病和诊断、解剖部位、影像检查、实验室检验、手术和药物6种命名实体|[CCKS2018数据](https://github.com/MenglinLu/Chinese-clinical-NER/tree/master/data)|
-|CNMER|识别中文医学命名实体|[CCKS2019数据](http://openkg.cn/dataset/yiducloud-ccks2019task1)|来自[OpenKG](http://openkg.cn)的分享|
+|CNMER|识别疾病和诊断、解剖部位、影像检查、实验室检验、手术和药物6种命名实体|[CCKS2018数据](https://github.com/MenglinLu/Chinese-clinical-NER/tree/master/data)||
+|CNMER|识别中文医学命名实体|[CCKS2019数据](http://openkg.cn/dataset/yidu-s4k)|来自[OpenKG](http://openkg.cn)的分享|
 
 ### Question Answer (QA)
 |Name|Description|Link|notes|
 |:-:|---|:-:|---|
 |cMedQA|医学在线论坛的数据，包含**5.4万**个问题，及对应的**约10万**个回答。|[cMedQA](https://github.com/zhangsheng93/cMedQA)|[Chinese Medical Question Answer Matching Using End-to-End Character-Level Multi-Scale CNNs](https://www.mdpi.com/2076-3417/7/8/767)|
 |cMedQA2|cMedQA的扩展版，包含**约10万**个医学相关问题，及对应的**约20万**个回答。|[cMedQA2](https://github.com/zhangsheng93/cMedQA2)|[Multi-Scale Attentive Interaction Networks for Chinese Medical Question Answer Selection](https://ieeexplore.ieee.org/abstract/document/8548603)|
+|webMedQA|又一个医学在线问答数据集，包含**6万+**的问题和**31万+**的回答，而且包含问题的类别。|[webMedQA](https://github.com/hejunqing/webMedQA)|[Applying deep matching networks to Chinese medical question answering: A study and a dataset](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0761-8)|
 
 ### Others
 |Name|Description|Link|notes|
