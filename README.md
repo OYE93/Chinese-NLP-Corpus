@@ -44,6 +44,9 @@ the details of the corpus
 |Description|Link|notes|
 |:-:|:-:|---|
 |Chinese NLP Corpus|<https://github.com/SophonPlus/ChineseNlpCorpus>||
+|awesome-chinese-nlp/Corpus 中文语料|https://github.com/crownpku/Awesome-Chinese-NLP#corpus-中文语料||
+|Large Scale Chinese Corpus for NLP|https://github.com/brightmart/nlp_chinese_corpus||
+|中文自然语言处理数据集|https://github.com/InsaneLife/ChineseNLPCorpus||
 
 
 ## Medical Domain
@@ -72,3 +75,4 @@ collect corpus for Chinese medical domain, including medical terminology, QA, cl
 |Name|Description|Link|notes|
 |:-:|---|:-:|---|
 |medical-books|Open sourece medical books in LaTeX|<https://github.com/scienceasdf/medical-books>||
+|awesome_Chinese_medical_NLP|中文医学NLP公开资源整理|https://github.com/GanjinZero/awesome_Chinese_medical_NLP||
