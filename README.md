@@ -26,7 +26,7 @@ the details of the corpus
 |Name|Description|Link|notes|
 |:-:|---|:-:|---|
 |CAIL2018|2018中国‘法研杯’法律智能挑战赛（任务：罪名预测、法条推荐、刑期预测）的数据，数据集共包括**268万**刑法法律文书，共涉及**183条**罪名，**202条**法条，刑期长短包括0-25年、无期、死刑。|[CAIL2018](https://cail.oss-cn-qingdao.aliyuncs.com/CAIL2018_ALL_DATA.zip)|[比赛官网](http://cail.cipsc.org.cn/), [github](https://github.com/thunlp/CAIL2018)|
-|CSL - Classification|[中文科学文献数据集(CSL)](https://github.com/P01son6415/CSL)中，选取自然科学相关学报的论文摘要根据[国家自然科学基金](http://www.nsfc.gov.cn/nsfc/cen/xmzn/2019xmzn/15/index.html)进行学科分类。|[CSL - Classification]([https://github.com/P01son6415/CSL#3%E5%AD%A6%E7%A7%91%E5%88%86%E7%B1%BB](https://github.com/P01son6415/CSL#3学科分类))||
+|CSL - Classification|[中文科学文献数据集(CSL)](https://github.com/P01son6415/CSL)中，选取自然科学相关学报的论文摘要根据[国家自然科学基金](http://www.nsfc.gov.cn/nsfc/cen/xmzn/2019xmzn/15/index.html)进行学科分类。|[CSL - Classification](https://github.com/P01son6415/CSL#3学科分类)||
 
 ### Sentiment Analysis and Rating
 |Name|Description|Link|notes|
