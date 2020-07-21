@@ -76,7 +76,7 @@ collect corpus for Chinese medical domain, including medical terminology, QA, cl
 ### Others
 |Name|Description|Link|notes|
 |:-:|---|:-:|---|
-|medical-books|Open sourece medical books in LaTeX|<https://github.com/scienceasdf/medical-books>||
-|awesome_Chinese_medical_NLP|中文医学NLP公开资源整理|https://github.com/GanjinZero/awesome_Chinese_medical_NLP||
-|Chinese_medical_NLP|医疗NLP领域（主要关注中文） 评测数据集 与 论文等相关资源。|<https://github.com/lrs1353281004/Chinese_medical_NLP>||
+|medical-books|Open sourece medical books in LaTeX|[medical-books](https://github.com/scienceasdf/medical-books)|       |
+| awesome_Chinese_medical_NLP | 中文医学NLP公开资源整理|[awesome_Chinese_medical_NLP](https://github.com/GanjinZero/awesome_Chinese_medical_NLP) |       |
+|Chinese_medical_NLP|医疗NLP领域（主要关注中文）评测数据集与论文等相关资源。|[Chinese_medical_NLP](https://github.com/lrs1353281004/Chinese_medical_NLP) |       |
 
