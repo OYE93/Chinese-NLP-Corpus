@@ -52,7 +52,13 @@ the details of the corpus
 
 
 ## Medical Domain
-collect corpus for Chinese medical domain, including medical terminology, QA, clinical NER
+Collect corpus for Chinese medical domain, including medical terminology, QA, clinical NER
+
+### Bechmark
+
+|    Name     | Description                                                  |                             Link                             | notes                                                        |
+| :---------: | ------------------------------------------------------------ | :----------------------------------------------------------: | ------------------------------------------------------------ |
+| ChineseBLUE | the Chinese Biomedical Language Understanding Evaluation benchmark by *alibaba* | [ChineseBLUE](https://github.com/alibaba-research/ChineseBLUE) | [Conceptualized Representation Learning for Chinese Biomedical Text Mining](https://raw.githubusercontent.com/alibaba-research/ChineseBLUE/master/paper.pdf) |
 
 ### Word Segmentation
 |Name|Description|Link|notes|
